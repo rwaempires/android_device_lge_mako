@@ -29,7 +29,7 @@ $(call inherit-product, vendor/liquid/config/common_phone.mk)
 $(call inherit-product, vendor/liquid/config/common_gsm.mk)
 
 # Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/liquid/config/nfc_enhanced.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mako
