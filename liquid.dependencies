@@ -1,9 +1,9 @@
 [
  {
-   "remote": "cm",
+   "remote": "ls",
    "repository": "android_kernel_google_msm",
    "target_path": "kernel/google/msm",
-   "revision": "cm-11.0"
+   "revision": "kitkat"
  },
  {
    "remote": "ls",
