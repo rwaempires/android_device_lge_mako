@@ -38,12 +38,12 @@ PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=liquid.mako.$(shell date +%m%d%y).$(
 
 # override
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_NUMBER=937116 \
+    BUILD_NUMBER=1227136 \
     PRODUCT_NAME=mako \
     TARGET_BUILD_TYPE=user \
     BUILD_VERSION_TAGS=release-keys \
-    PRIVATE_BUILD_DESC="occam-user 4.4.2 KOT49H 937116 release-keys" \
-    BUILD_FINGERPRINT="google/occam/mako:4.4.2/KOT49H/937116:user/release-keys"
+    PRIVATE_BUILD_DESC="occam-user 4.4.4 KTU84P 1227136 release-keys" \
+    BUILD_FINGERPRINT="google/occam/mako:4.4.4/KTU84P/1227136:user/release-keys"
 
 # Enable Torch
 PRODUCT_PACKAGES += Torch
