@@ -1,9 +1,9 @@
 [
  {
-   "remote": "cm",
-   "repository": "android_kernel_google_msm",
-   "target_path": "kernel/google/msm",
-   "revision": "cm-11.0"
+   "remote": "lsd",
+   "repository": "android_kernel_lge_mako",
+   "target_path": "kernel/lge/mako",
+   "revision": "4.4.4"
  },
  {
    "remote": "ls",
