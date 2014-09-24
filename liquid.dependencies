@@ -3,7 +3,7 @@
    "remote": "lsd",
    "repository": "android_kernel_lge_mako",
    "target_path": "kernel/lge/mako",
-   "revision": "4.4.4"
+   "revision": "kitkat"
  },
  {
    "remote": "ls",
