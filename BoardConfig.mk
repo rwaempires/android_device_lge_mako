@@ -40,8 +40,8 @@ BOARD_KERNEL_CMDLINE := console=ttyHSL0,115200,n8 androidboot.hardware=mako lpj=
 BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x01600000
 
 # Try to build the kernel
-TARGET_KERNEL_SOURCE := kernel/google/msm
-TARGET_KERNEL_CONFIG := cyanogen_mako_defconfig
+TARGET_KERNEL_SOURCE := kernel/lge/mako
+TARGET_KERNEL_CONFIG := liquid_mako_defconfig
 
 TARGET_GCC_VERSION_ARM := 4.7-sm
 TARGET_GCC_VERSION_AND := 4.7-sm
