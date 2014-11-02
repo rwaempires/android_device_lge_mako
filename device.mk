@@ -43,9 +43,6 @@ PRODUCT_PACKAGES += \
         librs_jni
 
 PRODUCT_COPY_FILES += \
-    device/lge/mako/format-system.sh:system/extras/format-system.sh
-
-PRODUCT_COPY_FILES += \
 	device/lge/mako/WCNSS_cfg.dat:system/vendor/firmware/wlan/prima/WCNSS_cfg.dat \
 	device/lge/mako/WCNSS_qcom_cfg.ini:system/etc/wifi/WCNSS_qcom_cfg.ini \
 	device/lge/mako/WCNSS_qcom_wlan_nv.bin:system/etc/wifi/WCNSS_qcom_wlan_nv.bin
